@@ -62,9 +62,9 @@
 
 ### Experience
 
-1. **2014-2016 year** - RED SOFT (Developer)
-2. **January 2019-August 2019 year** - Svyaztransneft, JSC (Expert 2 category)
-3. **September 2019 year-Present** - ASE EC JSC (Engineer 2 category)
+1. **2014-2016 year** - [RED SOFT](https://www.red-soft.ru/ru) (Developer)
+2. **January 2019-August 2019 year** - [Svyaztransneft, JSC](https://svyaz.transneft.ru/) (Expert 2 category)
+3. **September 2019 year-Present** - [ASE EC JSC](http://ase-ec.ru/) (Engineer 2 category)
 
 ---
 
