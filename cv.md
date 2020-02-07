@@ -1,6 +1,4 @@
 # Kostin Sergey
-:man:
----
 
 ### Contact Info
 
@@ -64,9 +62,9 @@
 
 ### Experience
 
-1. **2014-2016 year** - OOO "РедСофт" (Developer)
-2. **January 2019-August 2019 year** - АО "Связьтранснефть" (Expert 2 category)
-3. **September 2019 year-Present ** - АО ИК АСЭ (Engineer 2 category)
+1. **2014-2016 year** - RED SOFT (Developer)
+2. **January 2019-August 2019 year** - Svyaztransneft, JSC (Expert 2 category)
+3. **September 2019 year-Present** - ASE EC JSC (Engineer 2 category)
 
 ---
 
