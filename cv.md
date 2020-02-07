@@ -12,7 +12,9 @@
 
 ### Summary
 
-
+I would like to strengthen my knowledge in JavaScript and learn something new. 
+I am punctual, hardworking, communicative and open to opportunities of continuous learning and self-development. 
+Have an experience of working in a team of 8 members.
 
 ---
 
