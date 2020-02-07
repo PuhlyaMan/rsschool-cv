@@ -1,6 +1,4 @@
 # Kostin Sergey
-:man:
----
 
 ### Contact info
 
